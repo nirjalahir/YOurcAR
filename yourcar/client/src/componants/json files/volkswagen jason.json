@@ -1,0 +1,598 @@
+ [
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Comfortline(Base Model)",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.8 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.11.56 Lakh"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Highline",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.4 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.13.58 Lakh",
+      "compareWith": "Virtus Comfortline(Base Model)",
+      "priceDifference": "Rs.2,02,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Highline AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.12 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.14.88 Lakh",
+      "compareWith": "Virtus Highline",
+      "priceDifference": "Rs.1,30,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Topline",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.4 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.15.28 Lakh",
+      "compareWith": "Virtus Highline AT",
+      "priceDifference": "Rs.40,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Topline ES",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.08 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.15.60 Lakh",
+      "compareWith": "Virtus Topline",
+      "priceDifference": "Rs.32,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Topline Sound Edition",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.08 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.15.80 Lakh",
+      "compareWith": "Virtus Topline ES",
+      "priceDifference": "Rs.20,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Topline AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.12 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.58 Lakh",
+      "compareWith": "Virtus Topline Sound Edition",
+      "priceDifference": "Rs.78,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.67 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.62 Lakh",
+      "compareWith": "Virtus Topline AT",
+      "priceDifference": "Rs.4,500 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Topline AT ES",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.45 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.85 Lakh",
+      "compareWith": "Virtus GT DSG",
+      "priceDifference": "Rs.23,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus Topline Sound Edition AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.45 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.05 Lakh",
+      "compareWith": "Virtus Topline AT ES",
+      "priceDifference": "Rs.20,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus ES",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.28 Lakh",
+      "compareWith": "Virtus Topline Sound Edition AT",
+      "priceDifference": "Rs.22,500 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus Edge",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.67 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.48 Lakh",
+      "compareWith": "Virtus GT Plus ES",
+      "priceDifference": "Rs.20,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.67 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.60 Lakh",
+      "compareWith": "Virtus GT Plus Edge",
+      "priceDifference": "Rs.12,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus Edge ES",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.80 Lakh",
+      "compareWith": "Virtus GT Plus",
+      "priceDifference": "Rs.20,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus Edge Matte",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.86 Lakh",
+      "compareWith": "Virtus GT Plus Edge ES",
+      "priceDifference": "Rs.6,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus DSG ES",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "19.62 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.83 Lakh",
+      "compareWith": "Virtus GT Plus Edge Matte",
+      "priceDifference": "Rs.97,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus Edge DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.67 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.03 Lakh",
+      "compareWith": "Virtus GT Plus DSG ES",
+      "priceDifference": "Rs.20,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.67 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.15 Lakh",
+      "compareWith": "Virtus GT Plus Edge DSG",
+      "priceDifference": "Rs.12,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus Edge DSG ES",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "19.62 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.35 Lakh",
+      "compareWith": "Virtus GT Plus DSG",
+      "priceDifference": "Rs.20,000 more"
+    },
+    {
+      "carname": "volkswagen Virtus",
+      "name": "Virtus GT Plus Edge Matte DSG(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "19.62 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.41 Lakh",
+      "compareWith": "Virtus GT Plus Edge DSG ES",
+      "priceDifference": "Rs.6,000 more"
+    },
+    {
+      "carname": "volkswagen Tiguan",
+      "name": "Tiguan 2.0 TSI Elegance",
+      "engine": "1984 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "12.65 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.35.17 Lakh"
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Comfortline(Base Model)",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.08 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.11.70 Lakh",
+      "additionalFeatures": [
+        "7-inch Touchscreen",
+        "Dual front airbags",
+        "Tyre pressure deflation warning"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Highline",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.08 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.13.88 Lakh",
+      "additionalFeatures": [
+        "10.1-inch touchscreen",
+        "Automatic AC",
+        "Rear camera"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Highline AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.41 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.15.43 Lakh",
+      "additionalFeatures": [
+        "Cruise control",
+        "Paddle shifter",
+        "Hill start assist"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Topline",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.08 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.12 Lakh",
+      "additionalFeatures": [
+        "LED headlights with LED DRL",
+        "8-inch digital driver's display",
+        "6 airbags",
+        "Auto headlights"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Topline ES",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.87 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.31 Lakh",
+      "additionalFeatures": [
+        "8-inch digital driver",
+        "Auto headlights",
+        "Electric front seats",
+        "Footwell illumination"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Topline Sound Edition",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.87 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.51 Lakh"
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun GT Edge Trail Edition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.47 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.77 Lakh"
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.47 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.16.77 Lakh",
+      "additionalFeatures": [
+        "Laser red ambient lighting",
+        "16-inch alloy wheels",
+        "Active cylinder deactivation",
+        "Dual front airbags"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.36 Lakh",
+      "additionalFeatures": [
+        "16-inch alloy wheels",
+        "Laser red ambient lighting",
+        "Active cylinder deactivation"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Topline AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.41 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.63 Lakh",
+      "additionalFeatures": [
+        "LED headlights with LED DRL",
+        "8-inch digital driver's display",
+        "Paddle shifter"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Topline AT ES",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.15 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.17.88 Lakh",
+      "additionalFeatures": [
+        "LED headlights with LED DRL",
+        "Electric front seats",
+        "Footwell illumination"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.0 TSI Topline AT Sound Edition",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.15 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.08 Lakh"
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT Plus",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.18 Lakh",
+      "additionalFeatures": [
+        "8-inch digital driver's display",
+        "Cruise control",
+        "6 airbags"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT Plus Edge",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.47 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.38 Lakh",
+      "additionalFeatures": [
+        "Rear View Camera",
+        "Electric Sunroof",
+        "17-inch alloy wheels"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge Matte",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.47 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.44 Lakh",
+      "additionalFeatures": [
+        "Carbon Steel Grey Matte shade",
+        "Red brake callipers (Front)",
+        "Cherry Red stitching on seats"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT Plus ES",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.61 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.54 Lakh",
+      "additionalFeatures": [
+        "Electric front seats",
+        "Footwell illumination",
+        "Subwoofer"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge ES",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.61 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.74 Lakh",
+      "additionalFeatures": [
+        "Electric front seats",
+        "Footwell illumination",
+        "Sub-woofer"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge Matte ES",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.61 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.18.80 Lakh",
+      "additionalFeatures": [
+        "Electric front seats",
+        "Footwell illumination",
+        "Sub-woofer"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT Plus DSG Ventilated Seat",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.44 Lakh",
+      "additionalFeatures": [
+        "Ventilated front seats",
+        "Electric sunroof",
+        "Auto Headlights"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.64 Lakh",
+      "additionalFeatures": [
+        "Deep Black Pearl shade",
+        "Red brake callipers",
+        "Cherry Red stitching"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge Matte DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.70 Lakh",
+      "additionalFeatures": [
+        "Carbon Steel Grey Matte shade",
+        "Red brake callipers (Front)",
+        "Cherry Red stitching on seats"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 TSI GT Plus DSG ES",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.74 Lakh",
+      "additionalFeatures": [
+        "Electric front seats",
+        "Footwell illumination",
+        "Sub-woofer"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge DSG ES",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.19.94 Lakh",
+      "additionalFeatures": [
+        "Electric front seats",
+        "Footwell illumination",
+        "Sub-woofer"
+      ]
+    },
+    {
+      "carname": "volkswagen Taigun",
+      "name": "Taigun 1.5 GT Plus Edge Matte DSG ES(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "17.88 kmpl",
+      "waitingPeriod": "1 Month",
+      "price": "Rs.20 Lakh",
+      "additionalFeatures": [
+        "Electric front seats",
+        "Footwell illumination",
+        "Sub-woofer"
+      ]
+    }
+  ]

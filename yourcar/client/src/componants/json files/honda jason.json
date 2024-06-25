@@ -1,0 +1,294 @@
+ [
+    {
+      "carname": "Honda City",
+      "name": "City SV(Base Model)",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "17.8 kmpl",
+      "price": "Rs.11.71 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City V",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "17.8 kmpl",
+      "price": "Rs.12.59 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City Elegant Edition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "17.8 kmpl",
+      "price": "Rs.12.65 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City VX",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "17.8 kmpl",
+      "price": "Rs.13.71 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City V CVT",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.4 kmpl",
+      "price": "Rs.13.84 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City Elegant Edition CVT",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.4 kmpl",
+      "price": "Rs.13.90 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City ZX",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "17.8 kmpl",
+      "price": "Rs.14.94 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City VX CVT",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.4 kmpl",
+      "price": "Rs.14.96 Lakh*"
+    },
+    {
+      "carname": "Honda City",
+      "name": "City ZX CVT(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.4 kmpl",
+      "price": "Rs.16.19 Lakh*"
+    },
+    {
+      "carname": "Honda City Hybrid",
+      "name": "City Hybrid V CVT(Base Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "27.13 kmpl",
+      "price": "Rs.18.89 Lakh*"
+    },
+    {
+      "carname": "Honda City Hybrid",
+      "name": "City Hybrid ZX CVT(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "27.13 kmpl",
+      "price": "Rs.20.39 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze E(Base Model)",
+      "engine": "1199 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.7.16 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze S",
+      "engine": "1199 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.7.84 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze S CVT",
+      "engine": "1199 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.3 kmpl",
+      "price": "Rs.8.73 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze VX",
+      "engine": "1199 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.8.95 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze Elite Edition",
+      "engine": "1199 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.9.10 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze VX CVT",
+      "engine": "1199 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.3 kmpl",
+      "price": "Rs.9.77 Lakh*"
+    },
+    {
+      "carname": "Honda Amaze",
+      "name": "Amaze Elite Edition CVT(Top Model)",
+      "engine": "1199 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "Less than 1 month",
+      "mileage": "18.3 kmpl",
+      "price": "Rs.9.92 Lakh*"
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate SV(Base Model)",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "15.31 kmpl",
+      "price": "Rs.11.58 Lakh*",
+      "additionalFeatures": [
+        "LED projector headlights",
+        "Push-button start/stop",
+        "Auto AC",
+        "Dual front airbags"
+      ]
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate V",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "15.31 kmpl",
+      "price": "Rs.12.31 Lakh*",
+      "additionalFeatures": [
+        "8-inch touchscreen",
+        "Wireless smartphone connectivity",
+        "Reversing camera",
+        "Dual front airbags"
+      ]
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate V CVT",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "16.92 kmpl",
+      "price": "Rs.13.41 Lakh*",
+      "additionalFeatures": [
+        "Remote engine start",
+        "Paddle shifters",
+        "8-inch touchscreen",
+        "Dual front airbags"
+      ]
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate VX",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "15.31 kmpl",
+      "price": "Rs.13.70 Lakh*",
+      "additionalFeatures": [
+        "Single-pane sunroof",
+        "Wireless phone charger",
+        "7-inch digital driver",
+        "LaneWatch camera"
+      ]
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate VX CVT",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "16.92 kmpl",
+      "price": "Rs.14.80 Lakh*",
+      "additionalFeatures": [
+        "Automatic option",
+        "Wireless phone charger",
+        "7-inch digital driver",
+        "LaneWatch camera"
+      ]
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate ZX",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "15.31 kmpl",
+      "price": "Rs.15.10 Lakh*",
+      "additionalFeatures": [
+        "8-speaker music system",
+        "10.25-inch touchscreen",
+        "ADAS",
+        "6 airbags"
+      ]
+    },
+    {
+      "carname": "Honda Elevate",
+      "name": "Elevate ZX CVT(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "waitingPeriod": "1 Month",
+      "mileage": "16.92 kmpl",
+      "price": "Rs.16.20 Lakh*",
+      "additionalFeatures": [
+        "Dual-tone option",
+        "Automatic option",
+        "10.25-inch touchscreen",
+        "ADAS"
+      ]
+    }
+  ]

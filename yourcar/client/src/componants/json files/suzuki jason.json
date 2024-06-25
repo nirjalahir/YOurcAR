@@ -1,0 +1,958 @@
+[
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift LXI(Base Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.38 kmpl",
+        "price": "Rs.5.99 Lakh*",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "ABS with EBD",
+            "Tilt steering"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift VXI",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.38 kmpl",
+        "price": "Rs.7 Lakh*",
+        "additionalFeatures": [
+            "All four power windows",
+            "Keyless entry",
+            "4 speakers",
+            "Audio system"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift VXI AMT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.56 kmpl",
+        "price": "Rs.7.50 Lakh*",
+        "additionalFeatures": [
+            "Electronic Stability Programme",
+            "Hill-hold assist",
+            "Keyless entry"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.38 kmpl",
+        "price": "Rs.7.68 Lakh*",
+        "additionalFeatures": [
+            "15-inch alloy wheels",
+            "7-inch touchscreen",
+            "Rear washer and wiper"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift VXI CNG(Base Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "30.9 km/kg",
+        "price": "Rs.7.90 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI AMT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.56 kmpl",
+        "price": "Rs.8.18 Lakh*",
+        "additionalFeatures": [
+            "15-inch alloy wheels",
+            "7-inch touchscreen",
+            "Rear washer and wiper"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI Plus",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "Top Selling",
+        "mileage": "22.38 kmpl",
+        "price": "Rs.8.39 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlamps",
+            "Cruise control",
+            "Reversing camera"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI Plus DT",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.38 kmpl",
+        "price": "Rs.8.53 Lakh*",
+        "additionalFeatures": [
+            "Dual-tone paint option",
+            "LED projector headlamps",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI CNG(Top Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "30.9 km/kg",
+        "price": "Rs.8.58 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI Plus AMT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.56 kmpl",
+        "price": "Rs.8.89 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlamps",
+            "Cruise control",
+            "Reversing camera"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Swift",
+        "name": "Swift ZXI Plus DT AMT(Top Model)",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.56 kmpl",
+        "price": "Rs.9.03 Lakh*",
+        "additionalFeatures": [
+            "Dual-tone paint option",
+            "AMT gearbox",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Lxi(Base Model)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "17.38 kmpl",
+        "price": "Rs.8.34 Lakh*",
+        "additionalFeatures": [
+            "Bi-halogen projector headlights",
+            "Electrically adjustable ORVM",
+            "Manual Day/Night IRVM",
+            "Dual-front airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Lxi CNG(Base Model)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "25.51 km/kg",
+        "price": "Rs.9.29 Lakh*",
+        "additionalFeatures": [
+            "Bi-halogen projector headlights",
+            "Electrically adjustable ORVM",
+            "Manual Day/Night IRVM",
+            "Dual-front airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Vxi",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "17.38 kmpl",
+        "price": "Rs.9.70 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Height adjustable driver's seat",
+            "Automatic AC"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Vxi CNG",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "25.51 km/kg",
+        "price": "Rs.10.64 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Height adjustable driver's seat",
+            "Automatic AC"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Vxi AT",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.8 kmpl",
+        "price": "Rs.11.10 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Height adjustable driver's seat",
+            "Automatic AC"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.89 kmpl",
+        "price": "Rs.11.14 Lakh*",
+        "additionalFeatures": [
+            "Premium ARKAMYS Sound System",
+            "Electric sunroof",
+            "LED projector headlights",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi DT",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.89 kmpl",
+        "price": "Rs.11.30 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlights",
+            "Premium ARKAMYS Sound System",
+            "Electric sunroof",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi CNG",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "Top Selling",
+        "mileage": "25.51 km/kg",
+        "price": "Rs.12.10 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlights",
+            "Electric sunroof",
+            "Premium ARKAMYS Sound System",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi CNG DT(Top Model)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "25.51 km/kg",
+        "price": "Rs.12.26 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlights",
+            "Premium ARKAMYS Sound System",
+            "Electric sunroof"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi AT",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.8 kmpl",
+        "price": "Rs.12.54 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlights",
+            "Premium ARKAMYS Sound System",
+            "Electric sunroof",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi Plus",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "Top Selling",
+        "mileage": "19.89 kmpl",
+        "price": "Rs.12.58 Lakh*",
+        "additionalFeatures": [
+            "Heads-up display",
+            "360-degree camera",
+            "6 airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi AT DT",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.8 kmpl",
+        "price": "Rs.12.71 Lakh*",
+        "additionalFeatures": [
+            "LED projector headlights",
+            "Premium ARKAMYS Sound System",
+            "Electric sunroof",
+            "Cruise control"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi Plus DT",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.89 kmpl",
+        "price": "Rs.12.74 Lakh*",
+        "additionalFeatures": [
+            "Heads-up display",
+            "360-degree camera",
+            "6 airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi Plus AT",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.8 kmpl",
+        "price": "Rs.13.98 Lakh*",
+        "additionalFeatures": [
+            "Heads-up display",
+            "360-degree camera",
+            "6 airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Brezza",
+        "name": "Brezza Zxi Plus AT DT(Top Model)",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "19.8 kmpl",
+        "price": "Rs.14.14 Lakh*",
+        "additionalFeatures": [
+            "Heads-up display",
+            "360-degree camera",
+            "6 airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga Lxi (O)(Base Model)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.51 kmpl",
+        "price": "Rs.8.69 Lakh*",
+        "additionalFeatures": [
+            "Projector Headlamps",
+            "Manual AC",
+            "Dual Front Airbags"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga VXi (O)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.51 kmpl",
+        "price": "Rs.9.83 Lakh*",
+        "additionalFeatures": [
+            "Audio System With Bluetooth",
+            "2nd Row AC Vents",
+            "Electrically Foldable ORVMs"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga VXi (O) CNG(Base Model)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "26.11 km/kg",
+        "price": "Rs.10.78 Lakh*",
+        "additionalFeatures": [
+            "Audio System With Bluetooth",
+            "2nd Row AC Vents",
+            "Electrically Foldable ORVMs"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga Zxi (O)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.51 kmpl",
+        "price": "Rs.10.93 Lakh*",
+        "additionalFeatures": [
+            "Auto AC",
+            "7-inch Touchscreen",
+            "Android Auto"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga VXI AT",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.3 kmpl",
+        "price": "Rs.11.23 Lakh*",
+        "additionalFeatures": [
+            "Audio System With Bluetooth",
+            "2nd Row AC Vents",
+            "Electrically Foldable ORVMs"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga ZXI Plus",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.51 kmpl",
+        "price": "Rs.11.63 Lakh*",
+        "additionalFeatures": [
+            "ARKAMYS Sound System",
+            "Wireless Android Auto",
+            "6 Airbags",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga ZXI (O) CNG(Top Model)",
+        "engine": "1462 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "26.11 km/kg",
+        "price": "Rs.11.88 Lakh*",
+        "additionalFeatures": [
+            "Auto AC",
+            "7-inch Touchscreen",
+            "Android Auto"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga ZXI AT",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.3 kmpl",
+        "price": "Rs.12.33 Lakh*",
+        "additionalFeatures": [
+            "Auto AC",
+            "7-inch Touchscreen",
+            "Android Auto"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Ertiga",
+        "name": "Ertiga ZXI Plus AT(Top Model)",
+        "engine": "1462 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "20.3 kmpl",
+        "price": "Rs.13.03 Lakh*",
+        "additionalFeatures": [
+            "ARKAMYS Sound System",
+            "Wireless Android Auto",
+            "6 Airbags",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Alto",
+        "name": "Alto 800 STD Opt(Base Model)",
+        "engine": "796 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.05 kmpl",
+        "price": "Rs.3.54 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Alto",
+        "name": "Alto 800 LXI Opt",
+        "engine": "796 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.05 kmpl",
+        "price": "Rs.4.23 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Alto",
+        "name": "Alto 800 VXI",
+        "engine": "796 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.05 kmpl",
+        "price": "Rs.4.43 Lakh*",
+        "additionalFeatures": [
+            "Integrated Audio System",
+            "Central Locking",
+            "Accessory Socket"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Alto",
+        "name": "Alto 800 VXI Plus(Top Model)",
+        "engine": "796 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "22.05 kmpl",
+        "price": "Rs.4.57 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Alto",
+        "name": "Alto 800 LXI Opt S-CNG(Base Model)",
+        "engine": "796 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "More than 2 months",
+        "mileage": "31.59 km/kg",
+        "price": "Rs.5.13 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R LXI(Base Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "24.35 kmpl",
+        "price": "Rs.5.54 Lakh*",
+        "additionalFeatures": [
+            "Idle Start/Stop",
+            "Front power windows",
+            "Dual front airbags",
+            "Electronic stability control",
+            "Central locking"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R VXI",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "24.35 kmpl",
+        "price": "Rs.6 Lakh*",
+        "additionalFeatures": [
+            "Tilt adjustable steering",
+            "Keyless entry",
+            "All four power windows"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R ZXI",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "23.56 kmpl",
+        "price": "Rs.6.28 Lakh*",
+        "additionalFeatures": [
+            "Steering mounted controls",
+            "Electrically adjustable ORVMs",
+            "Tilt adjustable steering"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R LXI CNG(Base Model)",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "34.05 km/kg",
+        "price": "Rs.6.45 Lakh*",
+        "additionalFeatures": [
+            "Factory Fitted CNG Kit",
+            "Air Conditioner with Heater",
+            "Central Locking (i-CATS)"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R VXI AT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "25.19 kmpl",
+        "price": "Rs.6.50 Lakh*",
+        "additionalFeatures": [
+            "Tilt adjustable steering",
+            "Keyless entry",
+            "Hill hold assist",
+            "All four power windows"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R ZXI Plus",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "23.56 kmpl",
+        "price": "Rs.6.75 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Front fog lamps",
+            "14-inch alloy wheels",
+            "Rear wiper and washer"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R ZXI AT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "24.43 kmpl",
+        "price": "Rs.6.78 Lakh*",
+        "additionalFeatures": [
+            "Steering mounted controls",
+            "Electrically adjustable ORVMs",
+            "Tilt adjustable steering",
+            "Hill hold assist"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R ZXI Plus Dual Tone",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "23.56 kmpl",
+        "price": "Rs.6.88 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Front fog lamps",
+            "14-inch alloy wheels",
+            "Rear wiper and washer"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R VXI CNG(Top Model)",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "34.05 km/kg",
+        "price": "Rs.6.89 Lakh*",
+        "additionalFeatures": [
+            "Tilt adjustable steering",
+            "Keyless entry",
+            "All four power windows"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R ZXI Plus AT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "24.43 kmpl",
+        "price": "Rs.7.25 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "14-inch alloy wheels",
+            "Hill hold assist"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Wagon R",
+        "name": "Wagon R ZXI Plus AT Dual tone(Top Model)",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "24.43 kmpl",
+        "price": "Rs.7.38 Lakh*",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "14-inch alloy wheels",
+            "Hill hold assist"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire LXI(Base Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.41 kmpl",
+        "price": "Rs.6.57 Lakh*",
+        "additionalFeatures": [
+            "Dual Airbags And ABS",
+            "Multi Information Display",
+            "LED Tail Lamps"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire VXI",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.41 kmpl",
+        "price": "Rs.7.49 Lakh*",
+        "additionalFeatures": [
+            "Rear AC Vents",
+            "Power Windows",
+            "Infotainment System"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire VXI AT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.61 kmpl",
+        "price": "Rs.7.99 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire ZXI",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.41 kmpl",
+        "price": "Rs.8.17 Lakh*",
+        "additionalFeatures": [
+            "Push Button Start/Stop",
+            "Automatic Climate Control",
+            "Alloy Wheels"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire VXI CNG(Base Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "31.12 km/kg",
+        "price": "Rs.8.44 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire ZXI AT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.61 kmpl",
+        "price": "Rs.8.67 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire ZXI Plus",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.41 kmpl",
+        "price": "Rs.8.89 Lakh*",
+        "additionalFeatures": [
+            "LED Projector Headlamps",
+            "Touchscreen Infotainment",
+            "Reverse Parking Camera"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire ZXI CNG(Top Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "31.12 km/kg",
+        "price": "Rs.9.12 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Dzire",
+        "name": "Swift Dzire ZXI Plus AT(Top Model)",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "22.61 kmpl",
+        "price": "Rs.9.39 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio LXI(Base Model)",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "25.24 kmpl",
+        "price": "Rs.5.37 Lakh*",
+        "additionalFeatures": [
+            "Air Conditioner With Heater",
+            "Immobilizer",
+            "Power steering"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio VXI",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "25.24 kmpl",
+        "price": "Rs.5.83 Lakh*",
+        "additionalFeatures": [
+            "Power Windows",
+            "Rear Seat (60:40 split)",
+            "Central Locking"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio ZXI",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "25.24 kmpl",
+        "price": "Rs.6.12 Lakh*",
+        "additionalFeatures": [
+            "Audio System With 4-Speakers",
+            "Driver Airbag",
+            "Multifunction Steering Wheel"
+        ]
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio VXI AMT",
+        "engine": "998 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "26.68 kmpl",
+        "price": "Rs.6.33 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio ZXI Plus",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "24.97 kmpl",
+        "price": "Rs.6.59 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio ZXI AMT",
+        "engine": "998 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "26 kmpl",
+        "price": "Rs.6.62 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio VXI CNG(Base Model)",
+        "engine": "998 cc",
+        "transmission": "Manual",
+        "fuel": "CNG",
+        "waitingPeriod": "2 months",
+        "mileage": "35.6 km/kg",
+        "price": "Rs.6.74 Lakh*"
+    },
+    {
+        "carname": "Maruti Suzuki Celerio",
+        "name": "Celerio ZXI Plus AMT(Top Model)",
+        "engine": "998 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "2 months",
+        "mileage": "26 kmpl",
+        "price": "Rs.7.09 Lakh*"
+    }
+]

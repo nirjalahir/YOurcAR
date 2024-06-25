@@ -1,0 +1,45 @@
+.number{
+    position: absolute;
+    padding: 20px;
+    /* display: flex; */
+    top: 31%;
+    right: 33.5%;
+    width: 33%;
+    height: 40%;
+    color: rgb(255, 255, 255);
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+#mail,#password{width: 100%;
+
+}
+
+.btnNewUser {
+    background-color: #141313;
+    border-radius: 100px;
+    box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+    color: beige;
+    cursor: pointer;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.btnNewUser:hover {
+    box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+    transform: scale(1.05);
+}
+

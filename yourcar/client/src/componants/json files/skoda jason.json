@@ -1,0 +1,553 @@
+ [
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Active(Base Model)",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.47 kmpl",
+      "price": "Rs.11.53 Lakh",
+      "additionalFeatures": [
+        "7-inch touchscreen",
+        "Dual front airbags",
+        "Tyre pressure monitoring system"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Ambition Plus",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.47 kmpl",
+      "price": "Rs.12.49 Lakh",
+      "additionalFeatures": [
+        "8-inch touchscreen",
+        "Automatic AC",
+        "Cruise control",
+        "Dashcam"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Ambition",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.47 kmpl",
+      "price": "Rs.13.43 Lakh",
+      "additionalFeatures": [
+        "8-inch touchscreen",
+        "Automatic AC",
+        "Cruise control"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Style Non-Sunroof",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.47 kmpl",
+      "price": "Rs.14.62 Lakh",
+      "additionalFeatures": [
+        "10-inch touchscreen",
+        "200W 8-speaker sound system",
+        "6 airbags",
+        "Electric front seats"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Ambition AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.07 kmpl",
+      "price": "Rs.14.73 Lakh",
+      "additionalFeatures": [
+        "8-inch touchscreen",
+        "Automatic AC",
+        "Cruise control",
+        "Paddle shifters"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Ambition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.47 kmpl",
+      "price": "Rs.15.23 Lakh",
+      "additionalFeatures": [
+        "8-inch touchscreen",
+        "Automatic AC",
+        "Cruise control"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Style Matte",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "20.32 kmpl",
+      "price": "Rs.15.52 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Rain sensing wiper",
+        "Auto-dimming IRVM"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Style",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.47 kmpl",
+      "price": "Rs.15.63 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Rain sensing wiper",
+        "Auto-dimming IRVM"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Ambition DSG DT",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.07 kmpl",
+      "price": "Rs.16.63 Lakh",
+      "additionalFeatures": [
+        "8-inch touchscreen",
+        "Automatic AC",
+        "Paddle shifters"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Style Matte AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.73 kmpl",
+      "price": "Rs.16.72 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Paddle shifters"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.0 TSI Style AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.07 kmpl",
+      "price": "Rs.16.93 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Paddle shifters",
+        "Rain sensing wiper"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Style",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.72 kmpl",
+      "price": "Rs.17.43 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Rain sensing wiper",
+        "Auto-dimming IRVM"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Elegance Edition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.72 kmpl",
+      "price": "Rs.17.52 Lakh"
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Style Matte",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19 kmpl",
+      "price": "Rs.17.72 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Rain sensing wiper",
+        "Auto-dimming IRVM"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Style DSG Dual Tone",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.41 kmpl",
+      "price": "Rs.18.83 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Paddle shifters"
+      ]
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Elegance Edition DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.41 kmpl",
+      "price": "Rs.18.92 Lakh"
+    },
+    {
+      "carname": " Skoda Slavia",
+      "name": "Slavia 1.5 TSI Style Matte DSG(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "19.36 kmpl",
+      "price": "Rs.19.12 Lakh",
+      "additionalFeatures": [
+        "8-inch digital cluster",
+        "380W 8-speaker sound system",
+        "Paddle shifters"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Active(Base Model)",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.11.89 Lakh",
+      "additionalFeatures": [
+        "16-inch steel wheels with covers",
+        "Height-adjustable driver seat",
+        "7-inch touchscreen",
+        "6-speaker sound system",
+        "Dual airbags"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Onyx Plus",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.12.79 Lakh",
+      "additionalFeatures": [
+        "LED headlights with LED DRLs",
+        "Front fog lamps",
+        "Rear wiper and defogger",
+        "Auto AC"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Ambition",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.14.19 Lakh",
+      "additionalFeatures": [
+        "16-inch alloy wheels",
+        "Electrically foldable ORVMs",
+        "8-inch touchscreen",
+        "Cruise control",
+        "Reversing camera"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Ambition AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.15.49 Lakh",
+      "additionalFeatures": [
+        "Automatic option",
+        "Paddle shifters",
+        "8-inch touchscreen",
+        "Reversing camera",
+        "Cruise control"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Style Non Sunroof",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.15.91 Lakh",
+      "additionalFeatures": [
+        "17-inch alloy wheels",
+        "Ventilated front seats",
+        "6 airbags",
+        "10-inch touchscreen",
+        "Wireless phone charger"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Ambition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.86 kmpl",
+      "price": "Rs.15.99 Lakh",
+      "additionalFeatures": [
+        "Electrically foldable ORVMs",
+        "8-inch touchscreen",
+        "Cruise control",
+        "Reversing camera",
+        "16-inch alloy wheels"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Matte Edition",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.76 kmpl",
+      "price": "Rs.16.19 Lakh"
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Style",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.16.59 Lakh",
+      "additionalFeatures": [
+        "Auto-dimming IRVM",
+        "Sunroof",
+        "8-inch driver display"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Monte Carlo",
+      "engine": "999 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "19.76 kmpl",
+      "price": "Rs.17.29 Lakh",
+      "additionalFeatures": [
+        "17-inch dual-tone alloy wheels",
+        "Black and red cabin highlights",
+        "Red ambient lighting",
+        "10-inch touchscreen",
+        "8-inch driver display"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Ambition DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.86 kmpl",
+      "price": "Rs.17.39 Lakh",
+      "additionalFeatures": [
+        "Automatic option",
+        "8-inch touchscreen",
+        "Reversing camera",
+        "Cruise control"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Matte Edition AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "19.76 kmpl",
+      "price": "Rs.17.79 Lakh"
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Style AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.09 kmpl",
+      "price": "Rs.17.89 Lakh",
+      "additionalFeatures": [
+        "Automatic option",
+        "Paddle shifters",
+        "Ventilated front seats",
+        "Sunroof",
+        "17-inch alloy wheels"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Matte Edition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.18.19 Lakh"
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Elegance Edition",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.86 kmpl",
+      "price": "Rs.18.31 Lakh"
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Style",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.86 kmpl",
+      "price": "Rs.18.39 Lakh",
+      "additionalFeatures": [
+        "Auto-dimming IRVM",
+        "Sunroof",
+        "6 airbags",
+        "8-inch driver display"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.0 TSI Monte Carlo AT",
+      "engine": "999 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "19.76 kmpl",
+      "price": "Rs.18.59 Lakh",
+      "additionalFeatures": [
+        "Automatic option",
+        "Black and red cabin highlights",
+        "Red ambient lighting",
+        "10-inch touchscreen",
+        "17-inch dual-tone alloy wheels"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Monte Carlo",
+      "engine": "1498 cc",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.19.09 Lakh",
+      "additionalFeatures": [
+        "Black and red cabin highlights",
+        "17-inch alloy wheels",
+        "Red ambient lighting",
+        "10-inch touchscreen",
+        "8-inch driver display"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Matte Edition DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.19.39 Lakh"
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Elegance Edition DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.89 kmpl",
+      "price": "Rs.19.51 Lakh"
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Style DSG",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.89 kmpl",
+      "price": "Rs.19.79 Lakh",
+      "additionalFeatures": [
+        "Automatic option",
+        "17-inch alloy wheels",
+        "Ventilated front seats",
+        "Sunroof"
+      ]
+    },
+    {
+      "carname": " Skoda Kushaq",
+      "name": "Kushaq 1.5 TSI Monte Carlo DSG(Top Model)",
+      "engine": "1498 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "18.6 kmpl",
+      "price": "Rs.20.49 Lakh",
+      "additionalFeatures": [
+        "Automatic option",
+        "Black and red cabin highlights",
+        "Red ambient lighting",
+        "10-inch touchscreen",
+        "17-inch dual-tone alloy wheels"
+      ]
+    },
+    {
+      "carname": " Skoda Kodiaq",
+      "name": "Kodiaq Style(Base Model)",
+      "engine": "1984 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "12.78 kmpl",
+      "price": "Rs.38.50 Lakh"
+    },
+    {
+      "carname": " Skoda Kodiaq",
+      "name": "Kodiaq Sportline",
+      "engine": "1984 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "12.78 kmpl",
+      "price": "Rs.39.92 Lakh"
+    },
+    {
+      "carname": " Skoda Kodiaq",
+      "name": "Kodiaq L & K(Top Model)",
+      "engine": "1984 cc",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "mileage": "12.78 kmpl",
+      "price": "Top Selling Rs.41.99 Lakh"
+    }
+  ]

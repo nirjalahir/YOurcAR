@@ -1,0 +1,34 @@
+.backimgReadonly {
+    height: calc(100vh - 126px);
+    display: contents;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.backimgReadonly img {
+    width: 100%;
+    position:fixed;
+    z-index: -1;
+    background-size: cover;
+    filter: brightness(10%);
+}
+
+.container{
+    padding: 3%;
+}
+
+.company_tag {
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 19px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    border: 1px solid rgba(218, 85, 85, 0.12);
+    padding: 9px;
+    /* align-items: center; */
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+    font-size: x-large;
+}

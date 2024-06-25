@@ -1,0 +1,60 @@
+.heroImg {
+    height: calc(100vh - 126px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.heroImg img {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+    background-size: cover;
+    filter: blur(3px);
+    filter: brightness(20%)
+}
+
+.heading {
+    color: rgb(252, 243, 243);
+    font-weight: 800;
+    position: relative;
+    top: -15%;
+}
+
+.des {
+    color: rgb(252, 243, 243);
+    font-weight: 800;
+    position: relative;
+    top: -15%;
+}
+.note {
+    color: rgb(145 145 145);
+    font-weight: lighter;
+    position: absolute;
+    top: 61%;
+    left: 38%;
+}
+
+.button-33 {
+    background-color: #141313;
+    border-radius: 100px;
+    box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+    color: beige;
+    cursor: pointer;
+    font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+    padding: 7px 20px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 250ms;
+    border: 0;
+    font-size: 16px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.button-33:hover {
+    box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+    transform: scale(1.05);
+}

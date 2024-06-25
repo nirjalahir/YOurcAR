@@ -1,0 +1,1719 @@
+[
+    {
+        "carname": "Mahindra Scorpio Classic",
+        "name": "Scorpio Classic S(Base Model)",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.25 Lakh",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "2nd-row AC vents",
+            "LED taillamps"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio Classic",
+        "name": "Scorpio Classic S 9 Seater",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.84 Lakh",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "2nd-row AC vents",
+            "LED taillamps"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio Classic",
+        "name": "Scorpio Classic S 11",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.06 Lakh",
+        "additionalFeatures": [
+            "9-inch touchscreen",
+            "Electrically adjustable ORVMs",
+            "Projector headlights",
+            "17-inch alloy wheels"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio Classic",
+        "name": "Scorpio Classic S 11 7CC(Top Model)",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.35 Lakh",
+        "additionalFeatures": [
+            "Not specified"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z2(Base Model)",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.26 Lakh",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "Front and Rear disc brakes",
+            "Touchscreen infotainment"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z2 Diesel(Base Model)",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.76 Lakh",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "Front and Rear disc brakes",
+            "Touchscreen infotainment"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z2 E",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.76 Lakh",
+        "additionalFeatures": [
+            "Electronic stability control",
+            "Hill hold and descent",
+            "Touchscreen infotainment"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z2 Diesel E",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.26 Lakh",
+        "additionalFeatures": [
+            "Electronic stability control",
+            "Hill hold and descent",
+            "Touchscreen infotainment"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.90 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.40 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 E",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.40 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 Diesel E",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.90 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z6 Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.30 Lakh",
+        "additionalFeatures": [
+            "Wireless Android Auto",
+            "Sunroof",
+            "Inbuilt navigation"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 AT",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.63 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.14 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 Diesel 4x4",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z6 Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.04 Lakh",
+        "additionalFeatures": [
+            "Wireless Android Auto",
+            "Sunroof",
+            "Inbuilt navigation"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.30 Lakh",
+        "additionalFeatures": [
+            "6 Airbags",
+            "Dual-zone AC",
+            "Push Button Start",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z4 Diesel E 4x4",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.50 Lakh",
+        "additionalFeatures": [
+            "Wired Android Auto",
+            "Cruise control",
+            "Electrically adjustable ORVM",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8 Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.80 Lakh",
+        "additionalFeatures": [
+            "6 Airbags",
+            "Dual-zone AC",
+            "Push Button Start",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8 AT",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.19.98 Lakh",
+        "additionalFeatures": [
+            "6 Airbags",
+            "Dual-zone AC",
+            "Push Button Start",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.20.02 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L 6 Str",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.20.23 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.20.48 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8 Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.20.48 Lakh",
+        "additionalFeatures": [
+            "6 Airbags",
+            "Dual-zone AC",
+            "Push Button Start",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L 6 Str Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.20.73 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8 Diesel 4x4",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.36 Lakh",
+        "additionalFeatures": [
+            "6 Airbags",
+            "Dual-zone AC",
+            "Push Button Start",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L AT",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.59 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L 6 Str AT(Top Model)",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.78 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.22.13 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L 6 Str Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.22.29 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L Diesel 4x4",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.22.98 Lakh",
+        "additionalFeatures": [
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8 Diesel 4x4 AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.23.09 Lakh",
+        "additionalFeatures": [
+            "6 Airbags",
+            "Dual-zone AC",
+            "Push Button Start",
+            "Rearview Camera"
+        ]
+    },
+    {
+        "carname": "Mahindra Scorpio N",
+        "name": "Scorpio N Z8L Diesel 4x4 AT(Top Model)",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.24.54 Lakh",
+        "additionalFeatures": [
+            "Wireless phone charger",
+            "Driver drowsiness detection",
+            "12-speaker sound system",
+            "Front and Rear camera",
+            "6-way powered driver seat"
+        ]
+    },
+    {
+        "carname": "Mahindra Bolero",
+        "name": "Bolero B4(Base Model)",
+        "engine": "1493 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "16 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.9.90 Lakh"
+    },
+    {
+        "carname": "Mahindra Bolero",
+        "name": "Bolero B6",
+        "engine": "1493 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "16 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.10.10 Lakh"
+    },
+    {
+        "carname": "Mahindra Bolero",
+        "name": "Bolero B6 Opt(Top Model)",
+        "engine": "1493 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "16 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.10.91 Lakh"
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar AX Opt 4-Str Hard Top Diesel RWD(Base Model)",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.11.25 Lakh",
+        "additionalFeatures": [
+            "Tilt adjustable steering",
+            "Dual front airbags",
+            "Front power windows"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top Diesel RWD",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.12.75 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Electronic stability control",
+            "Hill assist"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top AT RWD(Base Model)",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Electronic stability control",
+            "Hill assist"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar AX Opt 4-Str Convert Top",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.30 Lakh",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "Height adjustable driver's seat",
+            "Front power windows"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar AX Opt 4-Str Convert Top Diesel",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.85 Lakh",
+        "additionalFeatures": [
+            "Tilt adjustable steering",
+            "Height adjustable driver's seat",
+            "Dual front airbags",
+            "Front power windows"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar AX Opt 4-Str Hard Top Diesel",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15 Lakh",
+        "additionalFeatures": [
+            "Tilt adjustable steering",
+            "Dual front airbags",
+            "Front power windows",
+            "Rear defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top",
+        "engine": "1997 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.15 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Rear defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top MLD Diesel",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.55 Lakh"
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Convert Top Diesel",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.75 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Tyre pressure monitoring system"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top Diesel",
+        "engine": "2184 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.15.75 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Rear defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Convert Top AT",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "15.2 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.50 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Tyre pressure monitoring system"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top AT(Top Model)",
+        "engine": "1997 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.60 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Rear defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top MLD Diesel AT",
+        "engine": "2184 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17 Lakh"
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Convert Top Diesel AT",
+        "engine": "2184 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.15 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Tyre pressure monitoring system"
+        ]
+    },
+    {
+        "carname": "Mahindra Thar",
+        "name": "Thar LX 4-Str Hard Top Diesel AT(Top Model)",
+        "engine": "2184 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.20 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Cruise control",
+            "Rear defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W2(Base Model)",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "16.82 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.7.99 Lakh",
+        "additionalFeatures": [
+            "Dual front airbags",
+            "Electrically adjustable ORVMs",
+            "All four disc brakes",
+            "Rear parking sensors",
+            "Automatic AC"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W4",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.8.67 Lakh",
+        "additionalFeatures": [
+            "Sunroof",
+            "Sunvisor light with mirror",
+            "Roof rails"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W4 Turbo",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.9.31 Lakh",
+        "additionalFeatures": [
+            "Sunroof",
+            "Sunvisor light with mirror",
+            "Roof rails"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W6",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.10 Lakh",
+        "additionalFeatures": [
+            "Steering mounted audio controls",
+            "60:40 Split 2nd Row",
+            "4-speaker sound system",
+            "Auto-dimming IRVM"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W4 Diesel(Base Model)",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.10.21 Lakh",
+        "additionalFeatures": [
+            "Sunroof",
+            "3.5-inch multi info. display",
+            "Roof rails",
+            "Sunvisor light with mirror"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W6 Turbo",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.10.51 Lakh",
+        "additionalFeatures": [
+            "Steering mounted audio controls",
+            "60:40 Split 2nd Row",
+            "4-speaker sound system",
+            "Auto-dimming IRVM"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W6 AMT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.10.71 Lakh",
+        "additionalFeatures": [
+            "3.5-inch multi info. display",
+            "Auto-dimming IRVM",
+            "4-speaker sound system",
+            "Steering mounted audio controls"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W6 Diesel",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.11.01 Lakh",
+        "additionalFeatures": [
+            "3.5-inch multi info. display",
+            "Auto-dimming IRVM",
+            "Steering mounted audio controls",
+            "4-speaker sound system"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "16.82 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.11.51 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Dual-zone AC",
+            "Rear parking camera",
+            "Push button engine Start/ Stop"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 DT",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "16.82 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.11.66 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Dual-zone AC",
+            "Rear parking camera",
+            "Push button engine Start/ Stop"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Turbo",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.12.01 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Dual-zone AC",
+            "Rear parking camera",
+            "Push button engine Start/ Stop"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Turbo DT",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.12.16 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Dual-zone AC",
+            "Rear parking camera",
+            "Push button engine Start/ Stop"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W6 AMT Diesel",
+        "engine": "1497 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.12.30 Lakh",
+        "additionalFeatures": [
+            "3.5-inch multi info. display",
+            "Auto-dimming IRVM",
+            "4-speaker sound system",
+            "Steering mounted audio controls"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "16.82 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.12.61 Lakh",
+        "additionalFeatures": [
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt DT",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "16.82 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.12.76 Lakh",
+        "additionalFeatures": [
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt Turbo",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "18.24 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.01 Lakh",
+        "additionalFeatures": [
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Diesel",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.01 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Dual-zone AC",
+            "Rear parking camera",
+            "Push button engine Start/ Stop"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 DT Diesel",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "Not specified",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.16 Lakh",
+        "additionalFeatures": [
+            "7-inch touchscreen",
+            "Dual-zone AC",
+            "Rear parking camera",
+            "Push button engine Start/ Stop"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt Turbo DT",
+        "engine": "1197 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "18.24 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.16 Lakh",
+        "additionalFeatures": [
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt AMT",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "16.5 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.31 Lakh",
+        "additionalFeatures": [
+            "Connected car technology",
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt AMT DT(Top Model)",
+        "engine": "1197 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "16.5 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.46 Lakh",
+        "additionalFeatures": [
+            "Connected car technology",
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt Diesel",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "20.1 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.93 Lakh",
+        "additionalFeatures": [
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt DT Diesel",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "20.1 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.08 Lakh",
+        "additionalFeatures": [
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt AMT Diesel",
+        "engine": "1497 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "19.7 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.61 Lakh",
+        "additionalFeatures": [
+            "Connected car technology",
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV300",
+        "name": "XUV300 W8 Opt AMT DT Diesel(Top Model)",
+        "engine": "1497 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "19.7 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.76 Lakh",
+        "additionalFeatures": [
+            "Connected car technology",
+            "6 airbags",
+            "Front parking sensors",
+            "Electronic stability control"
+        ]
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "name": "Marazzo M2(Base Model)",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17.3 kmpl",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.14.39 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "name": "Marazzo M2 8Str",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17.3 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.39 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "name": "Marazzo M4 Plus",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17.3 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.66 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "name": "Marazzo M4 Plus 8Str",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17.3 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.74 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "name": "Marazzo M6 Plus",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17.3 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.72 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra Marazzo",
+        "name": "Marazzo M6 Plus 8Str(Top Model)",
+        "engine": "1497 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17.3 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.80 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 MX(Base Model)",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.13.99 Lakh",
+        "additionalFeatures": [
+            "8-inch touchscreen",
+            "7-inch instrument cluster",
+            "4 speakers",
+            "Height-adjustable driver’s seat",
+            "ISOFIX child seat anchorages"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 MX E",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.49 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 MX Diesel(Base Model)",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.14.59 Lakh",
+        "additionalFeatures": [
+            "8-inch touchscreen",
+            "7-inch instrument cluster",
+            "Height-adjustable driver’s seat",
+            "4 speakers"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 MX E Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.15.09 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.39 Lakh",
+        "additionalFeatures": [
+            "10.25-inch infotainment system",
+            "10.25-inch digital display",
+            "6 speakers"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 E",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.89 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.16.99 Lakh",
+        "additionalFeatures": [
+            "10.25-inch infotainment system",
+            "10.25-inch digital display",
+            "6 speakers"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 E Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.49 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.17.69 Lakh",
+        "additionalFeatures": [
+            "LED headlights with high-beam",
+            "Panoramic sunroof",
+            "Cornering lamps",
+            "Curtain airbags"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 7 Str Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.17.99 Lakh",
+        "additionalFeatures": [
+            "10.25-inch infotainment system",
+            "10.25-inch digital display",
+            "One touch tumble for second-row",
+            "Third row AC"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 E",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.19 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 AT",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "13 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.19 Lakh",
+        "additionalFeatures": [
+            "10.25-inch infotainment system",
+            "10.25-inch digital display",
+            "Rear wiper and defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "Top Selling",
+        "price": "Rs.18.29 Lakh",
+        "additionalFeatures": [
+            "LED headlights with high-beam",
+            "Panoramic sunroof",
+            "Cornering lamps",
+            "Electronic stability program"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 E 7 Str Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.49 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 7 Str",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.69 Lakh",
+        "additionalFeatures": [
+            "Panoramic sunroof",
+            "Cornering lamps",
+            "Curtain airbags",
+            "Third row AC"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX3 Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.18.79 Lakh",
+        "additionalFeatures": [
+            "10.25-inch infotainment system",
+            "10.25-inch digital display",
+            "Rear wiper and defogger"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 E 7 Str",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.19.19 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 7 Str Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.19.29 Lakh",
+        "additionalFeatures": [
+            "Panoramic sunroof",
+            "Electronic stability program",
+            "Curtain airbags",
+            "Multiple drive modes",
+            "Third row AC"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 AT",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "13 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.19.49 Lakh",
+        "additionalFeatures": [
+            "Panoramic sunroof",
+            "Curtain airbags",
+            "Automatic transmission"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.20.09 Lakh",
+        "additionalFeatures": [
+            "Panoramic sunroof",
+            "Multiple drive modes",
+            "Cornering lamps"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX5 7 Str Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.09 Lakh",
+        "additionalFeatures": [
+            "Panoramic sunroof",
+            "Third row AC",
+            "Multiple drive modes"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.29 Lakh",
+        "additionalFeatures": [
+            "ADAS",
+            "Side airbags",
+            "Tyre pressure monitoring system",
+            "Rain sensing wipers",
+            "Dual zone climate control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6 Str",
+        "engine": "1999 cc",
+        "transmission": "Manual",
+        "fuel": "Petrol",
+        "mileage": "15 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.44 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.21.89 Lakh",
+        "additionalFeatures": [
+            "ADAS",
+            "Tyre pressure monitoring system",
+            "Rain sensing wipers",
+            "Dual zone climate control",
+            "Side airbags"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6 Str Diesel",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.22.04 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 AT",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "13 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.22.99 Lakh",
+        "additionalFeatures": [
+            "ADAS",
+            "Adaptive cruise control",
+            "6-way powered driver’s seat"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6Str AT",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "13 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.23.29 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.23.69 Lakh",
+        "additionalFeatures": [
+            "ADAS",
+            "6-way powered driver’s seat",
+            "Adaptive cruise control"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6 Str Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.23.84 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 Diesel Luxury Pack",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.23.99 Lakh",
+        "additionalFeatures": [
+            "360-degree camera",
+            "3D audio with 12 speakers",
+            "Driver knee airbag",
+            "Blind view monitoring",
+            "Wireless charging"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6Str Diesel Luxury Pack",
+        "engine": "2198 cc",
+        "transmission": "Manual",
+        "fuel": "Diesel",
+        "mileage": "17 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.24.14 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 AWD Diesel AT",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.24.99 Lakh",
+        "additionalFeatures": [
+            "ADAS",
+            "All wheel drivetrain",
+            "Electronic park brake"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 AT Luxury Pack",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "13 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.25.29 Lakh",
+        "additionalFeatures": [
+            "360-degree camera",
+            "Adaptive cruise control",
+            "Wireless charging"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6Str AT Luxury Pack(Top Model)",
+        "engine": "1999 cc",
+        "transmission": "Automatic",
+        "fuel": "Petrol",
+        "mileage": "13 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.25.44 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 Diesel AT Luxury Pack",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.25.79 Lakh",
+        "additionalFeatures": [
+            "360-degree camera",
+            "Adaptive cruise control",
+            "Drive modes"
+        ]
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 6Str Diesel AT Luxury Pack",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.25.94 Lakh",
+        "additionalFeatures": []
+    },
+    {
+        "carname": "Mahindra XUV700",
+        "name": "XUV700 AX7 Diesel AT Luxury Pack AWD(Top Model)",
+        "engine": "2198 cc",
+        "transmission": "Automatic",
+        "fuel": "Diesel",
+        "mileage": "16.57 kmpl",
+        "waitingPeriod": "More than 2 months",
+        "price": "Rs.26.99 Lakh",
+        "additionalFeatures": [
+            "360-degree camera",
+            "Electronic park brake",
+            "All wheel drivetrain",
+            "Wireless charging"
+        ]
+    }
+]

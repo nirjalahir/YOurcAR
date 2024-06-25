@@ -1,0 +1,12 @@
+.navbar-brand:hover{
+    transform: scale(1.05);
+}
+.nav-item:hover{
+    transform: scale(1.05);
+}
+.navbar{
+    position:fixed;
+    top: 0%;
+    z-index: 1000;
+    width: 100%;
+}

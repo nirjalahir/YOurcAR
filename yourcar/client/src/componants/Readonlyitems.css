@@ -1,0 +1,10 @@
+.cardh{
+    color: aliceblue;
+    min-inline-size: fit-content;
+    transition: transform 0.2s cubic-bezier(.42, 0, 0.1, 1.0) ;
+    
+}
+
+.cardh:hover {
+    transform: scale(1.05);
+}

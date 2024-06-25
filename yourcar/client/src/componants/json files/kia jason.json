@@ -1,0 +1,1059 @@
+ [
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTE(Base Model)",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.7.99 Lakh*",
+            "additionalFeatures": [
+                "15-inch steel wheels with cover",
+                "Manual AC",
+                "Front power windows",
+                "Front and side airbags"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTK",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.8.79 Lakh*",
+            "additionalFeatures": [
+                "16-inch wheels with cover",
+                "Height-adjustable driver seat",
+                "Keyless entry",
+                "Rear power windows",
+                "Basic audio system"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTE Diesel(Base Model)",
+            "engine": "1493 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.9.79 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTK Plus",
+            "engine": "1199 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.9.90 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTK Diesel",
+            "engine": "1493 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.10.39 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTK Plus Turbo iMT",
+            "engine": "998 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.10.49 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Auto headlights",
+                "8-inch touchscreen",
+                "Sunroof",
+                "Push-button start/stop"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTK Plus Diesel",
+            "engine": "1493 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.11.39 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Turbo iMT",
+            "engine": "998 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.11.49 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "LED headlights with LED DRLs",
+                "Auto AC",
+                "Cruise control",
+                "Sunroof"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Diesel",
+            "engine": "1493 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.11.99 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Turbo DCT",
+            "engine": "998 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12.29 Lakh*",
+            "additionalFeatures": [
+                "LED headlights with LED DRLs",
+                "Sunroof",
+                "Cruise control",
+                "Traction control",
+                "Paddle shifters"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12.60 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "LED headlights with LED DRLs",
+                "Sunroof",
+                "Cruise control",
+                "Auto AC"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12.99 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Sunroof",
+                "Cruise control",
+                "Paddle shifters",
+                "Auto AC"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Plus Turbo iMT",
+            "engine": "998 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.39 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "10.25-inch touchscreen",
+                "Ventilated front seats",
+                "Rear wiper and washer",
+                "Curtain airbags"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Plus Diesel",
+            "engine": "1493 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.69 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet HTX Plus Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.14.39 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "10.25-inch touchscreen",
+                "Ventilated front seats",
+                "Rear wiper and washer",
+                "Curtain airbags"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet GTX Plus Turbo DCT",
+            "engine": "998 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.14.50 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Red inserts inside and out",
+                "Wireless phone charger",
+                "Front and rear parking sensors",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet X-line Turbo DCT(Top Model)",
+            "engine": "998 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.14.69 Lakh*"
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet GTX Plus Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15.50 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Connected car tech",
+                "Wireless phone charger",
+                "Paddle shifters",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Kia Sonet",
+            "name": "Sonet X-line Diesel AT(Top Model)",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15.69 Lakh*"
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Premium(Base Model)",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.10.45 Lakh*",
+            "additionalFeatures": [
+                "Six airbags",
+                "Vehicle stability management",
+                "ISOFIX child seat anchorages",
+                "1-touch electric tumble",
+                "15-inch steel wheels with covers"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Prestige",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.11.75 Lakh*",
+            "additionalFeatures": [
+                "8-inch touchscreen",
+                "Reversing camera",
+                "Front parking sensors",
+                "Keyless entry",
+                "6-speaker music system"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Premium iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "1-touch electric tumble",
+                "Six airbags",
+                "Electronic stability control",
+                "Vehicle stability management"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Premium Diesel iMT(Base Model)",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12.65 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "16-inch steel wheels with covers",
+                "1-touch electric tumble",
+                "Electronic stability control",
+                "Vehicle stability management"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Prestige iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.35 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Reversing camera",
+                "Keyless entry",
+                "8-inch touchscreen",
+                "Front parking sensors"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Prestige Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.95 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "8-inch touchscreen",
+                "Reversing camera",
+                "Keyless entry",
+                "Front parking sensors"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Prestige Plus iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.14.85 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "16-inch dual-tone alloy wheels",
+                "Auto AC",
+                "Cruise control",
+                "Push-button start/stop"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Prestige Plus Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15.45 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "16-inch dual-tone alloy wheels",
+                "Auto AC",
+                "Cruise control",
+                "Push-button start/stop"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Prestige Plus DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15.85 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "16-inch dual-tone alloy wheels",
+                "Drive modes",
+                "Auto AC",
+                "Cruise control"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.16.35 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "10.25-inch touchscreen",
+                "64-colour ambient lighting",
+                "10.25-inch driver display",
+                "Air purifier"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.16.95 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "10.25-inch touchscreen",
+                "64-colour ambient lighting",
+                "10.25-inch driver display",
+                "Air purifier"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Opt DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.17.15 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Sunroof",
+                "Auto-dimming IRVM",
+                "Telescopic steering",
+                "Under seat tray"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus iMT 6 STR",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.17.65 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "6-seater option",
+                "Ventilated front seats",
+                "Wireless phone charger",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.17.70 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Ventilated front seats",
+                "Rain-sensing wipers",
+                "Wireless phone charger",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Opt Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.17.85 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Sunroof",
+                "Auto-dimming IRVM",
+                "Telescopic steering",
+                "Under seat tray"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.15 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Ventilated front seats",
+                "Rain-sensing wipers",
+                "Wireless phone charger",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus Diesel iMT 6 STR",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.15 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "6-seater option",
+                "Ventilated front seats",
+                "Wireless phone charger",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus DCT 6 STR",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.55 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "6-seater option",
+                "Drive modes",
+                "Paddle shifters",
+                "Ventilated front seats"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.60 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Drive modes",
+                "Paddle shifters",
+                "Ventilated front seats",
+                "Wireless phone charger"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens X-Line DCT 6 STR(Top Model)",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.95 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "6-seater option",
+                "Matte finish exterior",
+                "Rear seat entertainment screen",
+                "Green and orange cabin inserts"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.95 Lakh*",
+            "additionalFeatures": [
+                "Single-pane sunroof",
+                "Multi-drive modes",
+                "Ventilated front seats",
+                "Paddle shifters"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens Luxury Plus Diesel AT 6 STR",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.05 Lakh*",
+            "additionalFeatures": [
+                "Captain seats",
+                "Single-pane sunroof",
+                "Ventilated front seats",
+                "Multi-drive modes",
+                "Wireless phone charging"
+            ]
+        },
+        {
+            "carname": "Kia Carens",
+            "name": "Carens X-Line Diesel AT 6 STR(Top Model)",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.45 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "6-seater option",
+                "Matte finish exterior",
+                "Rear seat entertainment screen",
+                "Green and orange cabin inserts"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTE(Base Model)",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "17 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.10.90 Lakh*",
+            "additionalFeatures": [
+                "Halogen projector headlights",
+                "16-inch steel wheels with covers",
+                "Height-adjustable driver seat",
+                "Electronic stability control",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTE Diesel(Base Model)",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12 Lakh*"
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTE Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Halogen projector headlights",
+                "Height-adjustable driver seat",
+                "Electronic stability control",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "17 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.12.10 Lakh*",
+            "additionalFeatures": [
+                "Projector fog lamps",
+                "8-inch touchscreen",
+                "Reversing camera",
+                "Front parking sensors",
+                "6-speaker music system"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK Plus",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "17 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.50 Lakh*",
+            "additionalFeatures": [
+                "Push-button start/stop",
+                "Auto AC",
+                "16-inch alloy wheels",
+                "Rear wiper and washer",
+                "Cruise control"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK Diesel",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.60 Lakh*"
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.13.60 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "8-inch touchscreen",
+                "Reversing camera",
+                "Front parking sensors",
+                "6-speaker music system"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK Plus Diesel",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15 Lakh*"
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK Plus Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "16-inch alloy wheels",
+                "Push-button start/stop",
+                "Auto AC",
+                "Cruise control"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTK Plus Turbo iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Panoramic sunroof",
+                "Push-button start/stop",
+                "Auto AC",
+                "Cruise control"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX",
+            "engine": "1497 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "17 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.15.20 Lakh*",
+            "additionalFeatures": [
+                "LED lighting",
+                "Connected car tech",
+                "10.25-inch touchscreen",
+                "Dual-zone AC",
+                "Ambient lighting"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX IVT",
+            "engine": "1497 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.16.60 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "2-tone leatherette seats",
+                "17-inch dual-tone alloy wheels",
+                "Drive modes",
+                "Traction control"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Diesel",
+            "engine": "1493 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "mileage": "17 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.16.68 Lakh*"
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.16.70 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "Leatherette seats",
+                "17-inch alloy wheels",
+                "10.25-inch touchscreen",
+                "Panoramic sunroof"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "19.1 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.20 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "2-tone leatherette seats",
+                "17-inch dual-tone alloy wheels",
+                "Drive modes",
+                "Traction control"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Plus Diesel",
+            "engine": "1497 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.28 Lakh*"
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Plus Diesel iMT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "20.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.30 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "10.25-inch driver display",
+                "Wireless phone charger",
+                "Ventilated front seats",
+                "8-way powered driver seat"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Plus Turbo iMT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.7 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.18.30 Lakh*",
+            "additionalFeatures": [
+                "iMT (2-pedal manual)",
+                "10.25-inch driver display",
+                "Wireless phone charger",
+                "8-way powered driver seat",
+                "Ventilated front seats"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos HTX Plus Turbo DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.9 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.20 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "10.25-inch driver display",
+                "Wireless phone charger",
+                "Ventilated front seats",
+                "8-way powered driver seat"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos GTX Plus S Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "19.1 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.40 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Rain-sensing wipers",
+                "ADAS",
+                "360-degree camera",
+                "Electronic parking brake"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos GTX Plus S Turbo DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.9 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.40 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Dual exhaust tips",
+                "ADAS",
+                "360-degree camera",
+                "Electronic parking brake"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos X-Line S Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "19.1 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.60 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Matte finish for the exterior",
+                "Green leatherette seats",
+                "8-inch heads-up display",
+                "ADAS"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos X-Line S Turbo DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.9 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.19.60 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Dual exhaust tips",
+                "Green leatherette seats",
+                "8-inch heads-up display",
+                "ADAS"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos GTX Plus Diesel AT",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "19.1 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.20 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "18-inch dual-tone alloy wheels",
+                "ADAS",
+                "360-degree camera",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos GTX Plus Turbo DCT",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.9 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.20 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Dual exhaust tips",
+                "18-inch dual-tone alloy wheels",
+                "ADAS",
+                "360-degree camera"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos X-Line Diesel AT(Top Model)",
+            "engine": "1493 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "mileage": "19.1 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.20.30 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Matte finish for the exterior",
+                "360-degree camera",
+                "8-inch heads-up display",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia Seltos",
+            "name": "Seltos X-Line Turbo DCT(Top Model)",
+            "engine": "1482 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "17.9 kmpl",
+            "waitingPeriod": "2 months",
+            "price": "Rs.20.30 Lakh*",
+            "additionalFeatures": [
+                "Automatic option",
+                "Matte finish for the exterior",
+                "360-degree camera",
+                "8-inch heads-up display",
+                "8-speaker Bose sound system"
+            ]
+        },
+        {
+            "carname": "Kia EV6",
+            "name": "EV6 GT line(Base Model)",
+            "batteryCapacity": "77.4 kWh",
+            "range": "708 km",
+            "power": "225.86 bhp",
+            "waitingPeriod": "2 months",
+            "price": "Rs.60.95 Lakh*"
+        },
+        {
+            "carname": "Kia EV6",
+            "name": "EV6 GT line AWD(Top Model)",
+            "batteryCapacity": "77.4 kWh",
+            "range": "708 km",
+            "power": "320.55 bhp",
+            "status": "Top Selling",
+            "waitingPeriod": "2 months",
+            "price": "Rs.65.95 Lakh*"
+        }
+    ]

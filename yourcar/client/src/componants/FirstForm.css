@@ -1,0 +1,308 @@
+
+
+.pachhalnophoto {
+  height: calc(100vh - 126px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pachhalnophoto img {
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  background-size: cover;
+  filter: blur(3px);
+  filter: brightness(20%)
+}
+.formFill {
+    position: absolute;
+    padding: 20px;
+    top: 13%;
+    right: 3%;
+    width: 40%;
+    height: 77%;
+    color: white;
+    /* From https://css.glass */
+    background: rgba(255, 255, 255, 0.15);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.8px);
+    -webkit-backdrop-filter: blur(6.8px);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.form-text {
+    margin-top: 0.25rem;
+    font-size: .875em;
+    color: #d0d9e1bf;
+}
+
+
+.pelu {
+    display: flex;
+}
+
+#mail,
+#password {
+    width: 50%;
+}
+
+.dropdown-menu{
+  padding: 2%;
+}
+
+.form-control {
+  transition: none;
+  background-color: #ffffff;
+  border-radius: 100px;
+  box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+      transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.form-control:hover {
+  box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05);
+}
+/* .................................................................................................... */
+
+.form-select{
+  background-color: #ffffff;
+  border-radius: 100px;
+  box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+      transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
+.form-select:hover {
+  box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05);
+}
+/* ............................................................................................................ */
+
+
+.bajuvalukhanu{
+  position: absolute;
+  top: 25%;
+  left: -117%;
+  width: 40%;
+  color: rgb(143, 143, 143);
+  /* padding: 15px; */
+  /* background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.8px);
+  -webkit-backdrop-filter: blur(6.8px);
+  border: 1px solid rgba(255, 255, 255, 0.12); */
+}
+
+.button-33-1 {
+  background-color: #141313;
+  position: absolute;
+  top: 82%;
+  border-radius: 100px;
+  box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+  color: beige;
+  cursor: pointer;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33-1:hover {
+  box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05);
+}
+
+.button-33-2 {
+  background-color: #141313;
+  position: absolute;
+  top: 82%;
+  right: 60%;
+  border-radius: 100px;
+  box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+  color: beige;
+  cursor: pointer;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33-2:hover {
+  box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05);
+}
+.button-33-3 {
+  background-color: #141313;
+  position: absolute;
+  top: 82%;
+  right: 46%;
+  border-radius: 100px;
+  box-shadow: rgba(167, 100, 45, 0.2) 0 -25px 18px -14px inset, rgba(131, 21, 63, 0.507) 0 1px 2px, rgba(122, 111, 9, 0.15) 0 2px 4px, rgba(77, 187, 44, 0.15) 0 4px 8px, rgba(44, 58, 187, 0.15) 0 8px 16px, rgba(56, 187, 44, 0.15) 0 16px 32px;
+  color: beige;
+  cursor: pointer;
+  font-family: CerebriSans-Regular, -apple-system, system-ui, Roboto, sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33-3:hover {
+  box-shadow: rgba(187, 89, 44, 0.35) 0 -25px 18px -14px inset, rgba(187, 84, 44, 0.25) 0 1px 2px, rgba(187, 130, 44, 0.25) 0 2px 4px, rgba(187, 61, 44, 0.25) 0 4px 8px, rgba(187, 113, 44, 0.25) 0 8px 16px, rgba(187, 44, 44, 0.25) 0 16px 32px;
+  transform: scale(1.05);
+}
+
+.formbase{
+  position: absolute;
+  top: 0%;
+  left: -134%;
+  width: 108%;
+  height: 77%;
+  display: flex;
+  justify-content:start;
+  align-items: start;
+  padding: 20px;
+  flex-direction: column;
+  /*  */
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.8px);
+  -webkit-backdrop-filter: blur(6.8px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+
+
+.checkbox-wrapper-47 input[type="checkbox"] {
+  display: none;
+  visibility: hidden;
+  }
+  
+  .checkbox-wrapper-47 label {
+  position: relative;
+  padding-left: 2em;
+  padding-right: 1em;
+  line-height: 2;
+  cursor: pointer;
+  display: inline-flex;
+  }
+  
+  .checkbox-wrapper-47 label:before {
+  box-sizing: border-box;
+  content: " ";
+  position: absolute;
+  top: 0.3em;
+  left: 0;
+  display: block;
+  width: 1.4em;
+  height: 1.4em;
+  border: 2px solid #ff0000;
+  border-radius: 6px;
+  z-index: -1;
+  }
+  
+  .checkbox-wrapper-47 input[type=checkbox]:checked + label {
+  padding-left: 1em;
+  color: #ff0000;
+  }
+  .checkbox-wrapper-47 input[type=checkbox]:checked + label:before {
+  top: 0;
+  width: 100%;
+  height: 2em;
+  /* background: white; */
+  border-color: #bc2c2c;
+  }
+  
+  .checkbox-wrapper-47 label,
+  .checkbox-wrapper-47 label::before {
+  transition: 0.25s all ease;
+  }
+  
+  
+
+  .pelukhanu{
+    position: absolute;
+    top: 20%;
+    color: white;
+    /* background-color: red; */
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 70%;
+}
+.bijukhanu{
+    position: absolute;
+    color: white;
+    top: 20%;
+    left: 35%;
+    /* background-color: rgb(38, 0, 255); */
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 70%;
+}
+.trijukhanu{
+    position: inherit;
+    color: white;
+    top: 20%;
+    left: 65%;
+    /* background-color: rgb(30, 255, 0); */
+    width: 27%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    height: 70%;
+}
+
+.note1{
+  position: absolute;
+  top: 76%;
+  left: 4%;
+  color: #d1c6c6;
+}

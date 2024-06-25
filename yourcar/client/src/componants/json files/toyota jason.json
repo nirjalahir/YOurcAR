@@ -1,0 +1,752 @@
+ [
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder E(Base Model)",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "21.12 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.11.14 Lakh",
+            "additionalFeatures": [
+                "Halogen projector headlights",
+                "Auto AC",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder S",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "21.12 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.12.81 Lakh",
+            "additionalFeatures": [
+                "Halogen projector headlights",
+                "7-inch touchscreen",
+                "Cruise control",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder S CNG(Base Model)",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "CNG",
+            "mileage": "26.6 km/kg",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.13.71 Lakh",
+            "additionalFeatures": [
+                "CNG option",
+                "7-inch touchscreen",
+                "Reversing camera",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder S AT",
+            "engine": "1462 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "20.58 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.14.01 Lakh",
+            "additionalFeatures": [
+                "Automatic option",
+                "Paddle shifters",
+                "7-inch touchscreen",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder G",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "21.12 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.14.49 Lakh",
+            "additionalFeatures": [
+                "LED projector headlights",
+                "9-inch touchscreen",
+                "Reversing camera",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder G CNG(Top Model)",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "CNG",
+            "mileage": "26.6 km/kg",
+            "waitingPeriod": "Top Selling, More than 2 months",
+            "price": "Rs.15.59 Lakh",
+            "additionalFeatures": [
+                "Auto-LED projector headlights",
+                "9-inch touchscreen",
+                "Reversing camera",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder G AT",
+            "engine": "1462 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "20.58 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.15.69 Lakh",
+            "additionalFeatures": [
+                "Automatic option",
+                "Paddle shifters",
+                "9-inch touchscreen",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder V",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "21.12 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.16.04 Lakh",
+            "additionalFeatures": [
+                "Auto-LED projector headlights",
+                "Panoramic sunroof",
+                "9-inch touchscreen",
+                "360-degree camera"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder S HYBRID",
+            "engine": "1490 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "27.97 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.16.66 Lakh",
+            "additionalFeatures": [
+                "Cruise control",
+                "7-inch digital driver's display",
+                "7-inch touchscreen",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder V AT",
+            "engine": "1462 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "20.58 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.17.24 Lakh",
+            "additionalFeatures": [
+                "Automatic option",
+                "Paddle shifters",
+                "Panoramic sunroof",
+                "360-degree camera"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder V AWD",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "mileage": "19.39 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.17.54 Lakh",
+            "additionalFeatures": [
+                "AWD option",
+                "Hill-descent control",
+                "Drive modes",
+                "9-inch touchscreen"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder G HYBRID",
+            "engine": "1490 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "27.97 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.18.69 Lakh",
+            "additionalFeatures": [
+                "9-inch touchscreen",
+                "7-inch digital driver's display",
+                "Wireless phone charging",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Hyryder",
+            "name": "Hyryder V HYBRID(Top Model)",
+            "engine": "1490 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "mileage": "27.97 kmpl",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.20.19 Lakh",
+            "additionalFeatures": [
+                "360-degree camera",
+                "Premium sound system",
+                "Ventilated front seats",
+                "6 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Crysta",
+            "name": "Innova Crysta 2.4 GX 7 STR(Base Model)",
+            "engine": "2393 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.19.99 Lakh",
+            "additionalFeatures": [
+                "8-inch touchscreen",
+                "Tilt and telescopic steering",
+                "3 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Crysta",
+            "name": "Innova Crysta 2.4 GX 8 STR",
+            "engine": "2393 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.19.99 Lakh",
+            "additionalFeatures": [
+                "8-inch touchscreen",
+                "Tilt and telescopic steering",
+                "3 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Crysta",
+            "name": "Innova Crysta 2.4 VX 7 STR",
+            "engine": "2393 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.24.64 Lakh",
+            "additionalFeatures": [
+                "Automatic headlights",
+                "Automatic AC",
+                "Cruise control",
+                "7 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Crysta",
+            "name": "Innova Crysta 2.4 VX 8 STR",
+            "engine": "2393 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.24.69 Lakh",
+            "additionalFeatures": [
+                "Automatic headlights",
+                "Automatic AC",
+                "Cruise control",
+                "7 airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Crysta",
+            "name": "Innova Crysta 2.4 ZX 7 STR(Top Model)",
+            "engine": "2393 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.26.30 Lakh",
+            "additionalFeatures": [
+                "8-way powered driver's seat",
+                "17-inch alloy wheels",
+                "Leather seat upholstery"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross GX 7STR(Base Model)",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.19.77 Lakh",
+            "additionalFeatures": [
+                "8-inch touchscreen",
+                "Rear parking camera",
+                "Steering mounted audio controls"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross GX 8STR",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.19.82 Lakh",
+            "additionalFeatures": [
+                "8-inch touchscreen",
+                "Rear parking camera",
+                "Steering mounted audio controls"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross VX 7STR Hybrid",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.25.72 Lakh",
+            "additionalFeatures": [
+                "Automatic AC",
+                "7-inch digital driver's display",
+                "Cruise control"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross VX 8STR Hybrid",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.25.77 Lakh",
+            "additionalFeatures": [
+                "Automatic AC",
+                "7-inch digital driver's display",
+                "Cruise control"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross VX(O) 7STR Hybrid",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.27.69 Lakh",
+            "additionalFeatures": [
+                "LED fog lamps",
+                "Wireless Apple CarPlay",
+                "Panoramic sunroof"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross VX(O) 8STR Hybrid",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.27.74 Lakh",
+            "additionalFeatures": [
+                "LED fog lamps",
+                "Wireless Apple CarPlay",
+                "Panoramic sunroof"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross ZX Hybrid",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.30.04 Lakh",
+            "additionalFeatures": [
+                "Air filter",
+                "Ventilated front seats",
+                "8-way powered driver's seat",
+                "Powered Ottoman 2nd row seats",
+                "9-speaker JBL sound system"
+            ]
+        },
+        {
+            "carname": "Toyota Innova Hycross",
+            "name": "Innova Hycross ZX(O) Hybrid(Top Model)",
+            "engine": "1987 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.30.68 Lakh",
+            "additionalFeatures": [
+                "ADAS",
+                "8-way powered driver's seat",
+                "Powered Ottoman 2nd row seats"
+            ]
+        },
+        {
+            "carname": "Toyota Rumion",
+            "name": "Rumion S(Base Model)",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.10.44 Lakh",
+            "additionalFeatures": [
+                "Halogen projector headlights",
+                "Manual AC",
+                "ISOFIX child seat mounts",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Rumion",
+            "name": "Rumion S CNG",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "CNG",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.11.39 Lakh",
+            "additionalFeatures": [
+                "Halogen projector headlights",
+                "Manual AC",
+                "CNG fuel gauge",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Rumion",
+            "name": "Rumion G",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.11.60 Lakh",
+            "additionalFeatures": [
+                "Push-button start/stop",
+                "Auto AC",
+                "7-inch touchscreen system",
+                "Front fog lamps"
+            ]
+        },
+        {
+            "carname": "Toyota Rumion",
+            "name": "Rumion S AT",
+            "engine": "1462 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.11.94 Lakh",
+            "additionalFeatures": [
+                "Paddle shifters",
+                "6-speed automatic option",
+                "Manual AC",
+                "Dual front airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Rumion",
+            "name": "Rumion V",
+            "engine": "1462 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.12.33 Lakh",
+            "additionalFeatures": [
+                "Cruise control",
+                "Auto headlights",
+                "Side airbags",
+                "Reversing camera"
+            ]
+        },
+        {
+            "carname": "Toyota Rumion",
+            "name": "Rumion V AT(Top Model)",
+            "engine": "1462 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.13.73 Lakh",
+            "additionalFeatures": [
+                "Paddle shifters",
+                "6-speed automatic option",
+                "Cruise control",
+                "Side airbags"
+            ]
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza E(Base Model)",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.6.86 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza S",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.7.75 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza S AMT",
+            "engine": "1197 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.8.25 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza S CNG(Base Model)",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "CNG",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.8.65 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza G",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.8.78 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza G AMT",
+            "engine": "1197 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.9.28 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza G CNG(Top Model)",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "CNG",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.9.68 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza V",
+            "engine": "1197 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.9.78 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Glanza",
+            "name": "Glanza V AMT(Top Model)",
+            "engine": "1197 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "1 Month",
+            "price": "Rs.10 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner 4X2(Base Model)",
+            "engine": "2694 cc",
+            "transmission": "Manual",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.33.43 Lakh",
+            "additionalFeatures": [
+                "7 airbags",
+                "8 inch touchscreen",
+                "Connected car tech"
+            ]
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner 4X2 AT(Top Model)",
+            "engine": "2694 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.35.02 Lakh",
+            "additionalFeatures": [
+                "7 airbags",
+                "8 inch touchscreen",
+                "Connected car tech"
+            ]
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner 4X2 Diesel(Base Model)",
+            "engine": "2755 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.35.93 Lakh",
+            "additionalFeatures": [
+                "11 speaker JBL sound system",
+                "8 inch touchscreen",
+                "Connected car tech"
+            ]
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner 4X2 Diesel AT",
+            "engine": "2755 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.38.21 Lakh",
+            "additionalFeatures": [
+                "11 speaker JBL sound system",
+                "8 inch touchscreen",
+                "Connected car tech"
+            ]
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner 4X4 Diesel",
+            "engine": "2755 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.40.03 Lakh",
+            "additionalFeatures": [
+                "11 speaker JBL sound system",
+                "8 inch touchscreen",
+                "4x4 with low range gearbox"
+            ]
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner 4X4 Diesel AT",
+            "engine": "2755 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.42.32 Lakh",
+            "additionalFeatures": [
+                "11 speaker JBL sound system",
+                "8 inch touchscreen",
+                "4x4 with low range gearbox"
+            ]
+        },
+        {
+            "carname": "Toyota Fortuner",
+            "name": "Fortuner GR S 4X4 Diesel AT(Top Model)",
+            "engine": "2755 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.51.44 Lakh",
+            "additionalFeatures": []
+        },
+        {
+            "carname": "Toyota Land Cruiser",
+            "name": "Land Cruiser 300 ZX",
+            "engine": "3346 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.2.10 Cr"
+        },
+        {
+            "carname": "Toyota Hilux",
+            "name": "Hilux STD(Base Model)",
+            "engine": "2755 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.30.40 Lakh*"
+        },
+        {
+            "carname": "Toyota Hilux",
+            "name": "Hilux High",
+            "engine": "2755 cc",
+            "transmission": "Manual",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.37.15 Lakh*"
+        },
+        {
+            "carname": "Toyota Hilux",
+            "name": "Hilux High AT(Top Model)",
+            "engine": "2755 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.37.90 Lakh*"
+        },
+        {
+            "carname": "Toyota Fortuner Legender",
+            "name": "Fortuner Legender 4x2 AT(Base Model)",
+            "engine": "2755 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.43.66 Lakh*"
+        },
+        {
+            "carname": "Toyota Fortuner Legender",
+            "name": "Fortuner Legender 4x4 AT(Top Model)",
+            "engine": "2755 cc",
+            "transmission": "Automatic",
+            "fuel": "Diesel",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.47.64 Lakh*"
+        },
+        {"carname": "Toyota Camry",
+            "name": "Camry 2.5 Hybrid",
+            "engine": "2487 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.46.17 Lakh*",
+            "additionalFeatures": [
+                "Navigation",
+                "LED Headlamps",
+                "9 Airbags"
+            ]
+        },
+        {"carname": "Toyota Vellfire",
+            "name": "Vellfire Hi(Base Model)",
+            "engine": "2487 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.1.20 Cr*"
+        },
+        {"carname": "Toyota Vellfire",
+            "name": "Vellfire VIP Executive Lounge(Top Model)",
+            "engine": "2487 cc",
+            "transmission": "Automatic",
+            "fuel": "Petrol",
+            "waitingPeriod": "More than 2 months",
+            "price": "Rs.1.30 Cr*"
+        }
+    ]
